@@ -1,5 +1,5 @@
 # 개요
-https://github.com/skydoves/TheMovies2 를 
+https://github.com/skydoves/TheMovies2 를 따라한 예제
 
 # License
 ```
